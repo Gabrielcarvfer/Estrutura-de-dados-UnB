@@ -3,3 +3,4 @@ matplotlib~=3.5.2
 pyinstrument==4.4.0
 print-tree2==0.9.10
 scikit-learn==1.2.0
+networkx==2.8.5
